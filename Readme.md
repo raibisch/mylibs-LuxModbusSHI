@@ -4,6 +4,3 @@ ESP32 Arduino Modbus-TCP lib for communication to Luxtronik heatpump controller 
 
 [Dokumentation Luxtronik Smart-Home-Interface](LuxtronikSHI.md)
 
-
-
-
